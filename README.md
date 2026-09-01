@@ -1,4 +1,4 @@
-Hey, I'm Merin<br><br>I'm a self-taught software engineer, currently focused on learning and building through personal projects.
+## Hey, I'm Merin<br><br>I'm a self-taught software engineer, currently focused on learning and building through personal projects.
 
 # Tech Stack:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
